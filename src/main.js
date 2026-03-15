@@ -1,2 +1,2 @@
-console.log("first");
-console.log("main file");
+console.log("third2");
+console.log("third file");
